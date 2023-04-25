@@ -1,0 +1,3 @@
+# GIT CONFLICTS
+
+`Repaso:` Git tiene 3 areas, WORKING AREA, STANDING AREA, COMMIT AREA
